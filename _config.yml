@@ -55,8 +55,8 @@ email: nedim@protonmail.com
 authors:
     nedimkarakas:
         name: Nedim Karakaš
-        bio: Software Engineering student torturing data until it confesses.
-         Ćevap connossieur.
+        bio: > Software Engineering student torturing data until it confesses.
+               Ćevap connossieur.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: nedimkarakas_
