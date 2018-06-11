@@ -10,6 +10,7 @@ tag:
 - extra
 category: blog
 author: nedimkarakas
+hidden: false
 description: Test Post
 
 ### TEST NEDIM!!!
