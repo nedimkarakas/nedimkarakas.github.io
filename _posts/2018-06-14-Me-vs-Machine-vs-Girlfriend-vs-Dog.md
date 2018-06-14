@@ -16,8 +16,8 @@ description: Introduction / meet the contenders
 ---
 
 
-# Me vs Machine vs Girlfriend vs Dog 
-### *Predicting the 2018 World Cup in Russia*
+
+# *Predicting the 2018 World Cup in Russia*
 
 ## Introduction / Meet The Contenders 
 
