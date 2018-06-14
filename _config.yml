@@ -6,7 +6,7 @@ bio: |+
     Ćevap connossieur.
 
 # twitter summary info
-description: The personal blog/project site/online resume of Nedim Karakaš
+description: Nedim Karakaš
 
 # if it's an external image, update below for true
 # better with square images
@@ -25,7 +25,7 @@ your url: https://nedim.me/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
- analytics-google: 'UA-120801997-1'
+analytics-google: UA-120801997-1
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
