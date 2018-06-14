@@ -1,3 +1,21 @@
+---
+title: "Me vs Machine vs Girlfriend vs Dog"
+layout: post
+date: 2018-06-14 03:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- worldcup
+- machine learning
+- data science 
+- data analytics
+category: blog
+author: nedimkarakas
+description: Introdution / meet the contenders
+
+---
+
+
 # Me vs Machine vs Girlfriend vs Dog 
 ### *Predicting the 2018 World Cup in Russia*
 
