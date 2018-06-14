@@ -11,7 +11,7 @@ tag:
 - data analytics
 category: blog
 author: nedimkarakas
-description: Introdution / meet the contenders
+description: Introduction / meet the contenders
 
 ---
 
@@ -19,7 +19,7 @@ description: Introdution / meet the contenders
 # Me vs Machine vs Girlfriend vs Dog 
 ### *Predicting the 2018 World Cup in Russia*
 
-## Introduction / meet the contenders 
+## Introduction / Meet The Contenders 
 
 Have you ever wondered who is better at predicting football matches? 
 Hardcore superfans, statistics, casual viewers or cute puppies? 
@@ -32,7 +32,7 @@ Well, over the course of this World Cup you will get to find out!
  
 <img src="https://nedimkarakas.github.io/assets/images/nedim.png" alt="alt text" width="150" height="150">
 
-First up we have yours truly, representing the category of the hardcore football fans. 
+First up we have yours truly, representing the category of hardcore football fans. 
 
 I've been a football fan for as long as I can remember and in addition to that I'm also a huge nerd - to which my 10 years of playing Football Manager can testify. 
 
@@ -55,7 +55,8 @@ As you may have noticed from the page, I'm really into data science and therefor
 
 
 
-More on the technical stuff can be found at **
+More on the technical stuff can be found at **Projects**
+
 ## <img source = "https://nedim.me/assets/images/nejra.png" width = "150" height = "150"> MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
 
 I love her to bits, but the fact that she is a Chelsea supporter is enough to discredit her as a pundit, decision maker and human being - but she also chose me, through which she has more than redeemed herself. 
