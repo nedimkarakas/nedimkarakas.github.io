@@ -29,7 +29,8 @@ Well, over the course of this World Cup you will get to find out!
 
 ##ME a.k.a "THE EXPERT"
 
-### <img src="https://nedimkarakas.github.io/assets/images/nedim.png" alt="alt text" width="150" height="150">
+ 
+<img src="https://nedimkarakas.github.io/assets/images/nedim.png" alt="alt text" width="150" height="150">
 
 First up we have yours truly, representing the category of the hardcore football fans. 
 
@@ -41,7 +42,8 @@ I'll be giving my predictions based on my intiution and knowledge and understand
 in short I'll be your classic TV pundit meaning *very* biased and mostly bullshit. **#Deutschland #Meister #5sterne**
 
 ##MACHINE LEARNING a.k.a "P.O.P.U.L.A."
-### ![](https://ml.berkeley.edu/assets/mlab_color-e5f058901c6abd2b7d09d4d00cba0b38b36af6c373a85fd65ed10a42dbf1f0dc.png) 
+<img src="https://ml.berkeley.edu/assets/mlab_color-e5f058901c6abd2b7d09d4d00cba0b38b36af6c373a85fd65ed10a42dbf1f0dc.png" alt="alt text" width="170" height="170">
+
 
 
 
@@ -54,7 +56,7 @@ As you may have noticed from the page, I'm really into data science and therefor
 
 More on the technical stuff can be found at **
 ## MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
-### ![](https://nedimkarakas.github.io/assets/images/nejra.png)
+<img source = "https://nedimkarakas.github.io/assets/images/nejra.png" width = "150" height = "150>
 I love her to bits, but the fact that she is a Chelsea supporter is enough to discredit her as a pundit, decision maker and human being - but she also chose me, through which she has more than redeemed herself. 
 
 That being said this lovely ray of sunshine representing the category of the casual football fan is either terribly wrong or spectaculary right. She also promised to root for Germany because well... I can't make her support Man United, so we compromised. 
