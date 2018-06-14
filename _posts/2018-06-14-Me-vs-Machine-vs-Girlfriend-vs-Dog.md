@@ -54,15 +54,16 @@ As you may have noticed from the page, I'm really into data science and therefor
 **Disclamer:** *If you're unsure how good the FM database is just know that a fair number of major clubs use it as a scouting tool*
 
 
+
 More on the technical stuff can be found at **
-## MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
-<img source = "https://nedimkarakas.github.io/assets/images/nejra.png" width = "150" height = "150>
+## <img source = "https://nedim.me/assets/images/nejra.png" width = "150" height = "150"> MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
+
 I love her to bits, but the fact that she is a Chelsea supporter is enough to discredit her as a pundit, decision maker and human being - but she also chose me, through which she has more than redeemed herself. 
 
 That being said this lovely ray of sunshine representing the category of the casual football fan is either terribly wrong or spectaculary right. She also promised to root for Germany because well... I can't make her support Man United, so we compromised. 
 
 
-### <img src = https://nedimkarakas.github.io/assets/images/jimmie.png style = "width:150px; height:150px"> JIMMIE a.k.a "THE DOGGO ORACLE"
+### <img src = https://nedimkarakas.github.io/assets/images/jimmie.png  width = "150" height = "150"> JIMMIE a.k.a "THE DOGGO ORACLE"
 
 Following in the footsteps of the great Paul The Octopus (God bless his soul) this 10 year old Pekingnese/Lhasa Apso mix puppy will try to predict the outcomes of the matches by choosing one of two treats, with each one corresponding to one of the teams involved in a particular fixture. 
 
