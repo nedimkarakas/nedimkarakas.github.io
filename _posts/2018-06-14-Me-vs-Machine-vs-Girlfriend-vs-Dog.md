@@ -26,7 +26,7 @@ Hardcore superfans, statistics, casual viewers or cute puppies?
 
 Well, over the course of this World Cup you will get to find out! 
 
-### <img src=/Users/nedimkarakas/nedimkarakas.github.io/assets/images/nedim.png style="width:150px;height:150px;"> ME a.k.a "THE EXPERT"
+### <img src=https://nedimkarakas.github.io/assets/images/nedim.png style="width:150px;height:150px;"> ME a.k.a "THE EXPERT"
 
 
 First up we have yours truly, representing the category of the hardcore football fans. 
@@ -51,7 +51,7 @@ As you may have noticed from the page, I'm really into data science and therefor
 More on the technical stuff can be found at **Projects**.
 
 
-### <img src = /Users/nedimkarakas/nedimkarakas.github.io/assets/images/nejra.png style = "width:150; height:150px;"> MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
+### <img src = https://nedimkarakas.github.io/assets/images/nejra.png style = "width:150; height:150px;"> MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
 
 
 I love her to bits, but the fact that she is a Chelsea supporter is enough to discredit her as a pundit, decision maker and human being - but she also chose me, through which she has more than redeemed herself. 
@@ -59,7 +59,7 @@ I love her to bits, but the fact that she is a Chelsea supporter is enough to di
 That being said this lovely ray of sunshine representing the category of the casual football fan is either terribly wrong or spectaculary right. She also promised to root for Germany because well... I can't make her support Man United, so we compromised. 
 
 
-### <img src = /Users/nedimkarakas/nedimkarakas.github.io/assets/images/jimmie.png style = "width:150px; height:150px"> JIMMIE a.k.a "THE DOGGO ORACLE"
+### <img src = https://nedimkarakas.github.io/assets/images/jimmie.png style = "width:150px; height:150px"> JIMMIE a.k.a "THE DOGGO ORACLE"
 
 Following in the footsteps of the great Paul The Octopus (God bless his soul) this 10 year old Pekingnese/Lhasa Apso mix puppy will try to predict the outcomes of the matches by choosing one of two treats, with each one corresponding to one of the teams involved in a particular fixture. 
 
