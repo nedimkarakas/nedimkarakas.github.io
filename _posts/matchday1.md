@@ -16,18 +16,16 @@ description: Introduction / meet the contenders
 ---
 # *Predicting The 2018 World Cup* 
 
-##Group A Russia vs Saudi Arabia
+## Russia  <img src = "https://nedim.me/assets/images/russia.png" height = 150 width = 150> VS <img src = "https://nedim.me/assets/images/saudi_arabia.png" height = 150 width = 150> Saudi Arabia
 
 
-<img src = "https://nedim.me/assets/images/russia.png" height = 150 width = 150> <img src = "https://nedim.me/assets/images/saudi_arabia.png" height = 150 width = 150>
+     | 		Picked  		  | 
+------------ | ------------- |
+| <img src = "https://nedim.me/assets/images/nedim.png" height = 100 widht = 100> | Draw
+<img src = "https://ml.berkeley.edu/assets/mlab_color-e5f058901c6abd2b7d09d4d00cba0b38b36af6c373a85fd65ed10a42dbf1f0dc.png" height = 100 widht = 100>  | Russia | 
+<img src = "https://nedim.me/assets/images/nejra.png" width = "100" height = "100">  |	Russia			|
+<img src = "https://nedim.me/assets/images/jimmie.png" width = "100" height = "100">  | Russia					| 
 
-My prediction: **Draw** 
-
-Machine Learning model prediction: **Russia**
-
-My girlfriends prediction: **Russia**
-
-My dog's pick: **Russia**
 
 
 > **Actual score:**
@@ -36,5 +34,11 @@ My dog's pick: **Russia**
 
 
 
+Position   | 		Name  		  | # Correct predictions
+------------ | ------------- | -------------
+1st (tied)| Machine Learning Model | 1
+1st | My girlfriend | 1
+1st |	My dog				|1
+2nd  | Me					| 0
 
 
