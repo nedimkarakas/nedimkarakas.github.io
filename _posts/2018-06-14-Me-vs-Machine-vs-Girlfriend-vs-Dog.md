@@ -65,7 +65,7 @@ I love her to bits, but the fact that she is a Chelsea supporter is enough to di
 That being said this lovely ray of sunshine representing the category of the casual football fan is either terribly wrong or spectaculary right. She also promised to root for Germany because well... I can't make her support Man United, so we compromised. 
 
 
-## <img src = https://nedimkarakas.github.io/assets/images/jimmie.png  width = "150" height = "150">JIMMIE a.k.a "THE DOGGO ORACLE"
+## <img src = https://nedim.me/assets/images/jimmie.png width = "150" height = "150"> JIMMIE a.k.a "THE DOGGO ORACLE"
 
 
 
