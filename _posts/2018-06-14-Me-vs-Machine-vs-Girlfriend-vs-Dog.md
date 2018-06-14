@@ -29,7 +29,7 @@ Well, over the course of this World Cup you will get to find out!
 
 ##ME a.k.a "THE EXPERT"
 
-### ![](https://nedimkarakas.github.io/assets/images/nedim.png =150x150)
+### <img src="https://nedimkarakas.github.io/assets/images/nedim.png" alt="alt text" width="150" height="150">
 
 First up we have yours truly, representing the category of the hardcore football fans. 
 
