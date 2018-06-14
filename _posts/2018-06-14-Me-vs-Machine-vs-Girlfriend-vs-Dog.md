@@ -26,8 +26,10 @@ Hardcore superfans, statistics, casual viewers or cute puppies?
 
 Well, over the course of this World Cup you will get to find out! 
 
-### <img src=https://nedimkarakas.github.io/assets/images/nedim.png style="width:150px;height:150px;"> ME a.k.a "THE EXPERT"
 
+##ME a.k.a "THE EXPERT"
+
+### ![](https://nedimkarakas.github.io/assets/images/nedim.png =150x150)
 
 First up we have yours truly, representing the category of the hardcore football fans. 
 
@@ -38,7 +40,9 @@ I've been a football fan for as long as I can remember and in addition to that I
 I'll be giving my predictions based on my intiution and knowledge and understanding of the game - 
 in short I'll be your classic TV pundit meaning *very* biased and mostly bullshit. **#Deutschland #Meister #5sterne**
 
-### <img src = https://ml.berkeley.edu/assets/mlab_color-e5f058901c6abd2b7d09d4d00cba0b38b36af6c373a85fd65ed10a42dbf1f0dc.png style = "width:180px; height: 180px;"> MACHINE LEARNING a.k.a "P.O.P.U.L.A."
+##MACHINE LEARNING a.k.a "P.O.P.U.L.A."
+### ![](https://ml.berkeley.edu/assets/mlab_color-e5f058901c6abd2b7d09d4d00cba0b38b36af6c373a85fd65ed10a42dbf1f0dc.png) 
+
 
 
 As you may have noticed from the page, I'm really into data science and therefore I've decided to put my skills to a test and throw together a quick **P**ile **O**f **P**oorly **U**nderstood **L**inear **A**lgebra to predict the games.
@@ -48,12 +52,9 @@ As you may have noticed from the page, I'm really into data science and therefor
 **Disclamer:** *If you're unsure how good the FM database is just know that a fair number of major clubs use it as a scouting tool*
 
 
-More on the technical stuff can be found at **Projects**.
-
-
-### <img src = https://nedimkarakas.github.io/assets/images/nejra.png style = "width:150; height:150px;"> MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
-
-
+More on the technical stuff can be found at **
+## MY GIRLFRIEND a.k.a "MRS. ALMOST ALWAYS RIGHT"
+### ![](https://nedimkarakas.github.io/assets/images/nejra.png)
 I love her to bits, but the fact that she is a Chelsea supporter is enough to discredit her as a pundit, decision maker and human being - but she also chose me, through which she has more than redeemed herself. 
 
 That being said this lovely ray of sunshine representing the category of the casual football fan is either terribly wrong or spectaculary right. She also promised to root for Germany because well... I can't make her support Man United, so we compromised. 
