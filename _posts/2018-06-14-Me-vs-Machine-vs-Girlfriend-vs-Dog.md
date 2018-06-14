@@ -68,7 +68,6 @@ That being said this lovely ray of sunshine representing the category of the cas
 ## <img src = https://nedim.me/assets/images/jimmie.png width = "150" height = "150"> JIMMIE a.k.a "THE DOGGO ORACLE"
 
 
-
 Following in the footsteps of the great Paul The Octopus (God bless his soul) this 10 year old Pekingnese/Lhasa Apso mix puppy will try to predict the outcomes of the matches by choosing one of two treats, with each one corresponding to one of the teams involved in a particular fixture. 
 
 Jimmie is also a big football fan and an excellent goalkeeper with rushing out skills that would put Manuel Neuer to shame. 
